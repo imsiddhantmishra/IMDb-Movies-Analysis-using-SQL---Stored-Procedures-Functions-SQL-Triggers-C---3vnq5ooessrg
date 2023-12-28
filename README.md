@@ -18,3 +18,30 @@ Average ratings for different genres.
 # Director and Actor Analysis:
 Top directors and actors based on ratings or popularity.
 Collaborations between directors and actors.
+## INSTALLATION 
+# Database Setup 
+make sure to have a relational database set up MYSQL,PostgreSQL
+CREATE DATABASE: database creation using SQL command is the prioritised step.
+and import data into database and using import wizard settings then only changes can be made .
+# USAGE 
+This project can have various use cases and applications. Here are several potential usages of such a project:
+## Film Industry Insights:
+Studio Decision-Making:
+----------------------
+Studios can use the analysis to make informed decisions about the types of movies to produce, the most successful genres, and potential collaborations between directors and actors.
+Budgeting Strategies: Analysis of budgets and revenues can help in developing budgeting strategies for movie production.
+Market Research:
+Audience Preferences:
+--------------------
+Understand audience preferences and trends over time, aiding in targeted marketing efforts for new releases.
+Competitor Analysis:
+-------------------
+Analyze the competitive landscape and identify areas where a studio can differentiate itself.
+## Content Creation:
+
+Script Development:
+-------------------
+Writers can use insights into popular genres and themes to guide script development.
+Character and Casting Choices:
+-----------------------------
+Casting directors can benefit from information on popular actors and collaborations.
