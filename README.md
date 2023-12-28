@@ -48,4 +48,5 @@ Writers can use insights into popular genres and themes to guide script developm
 Character and Casting Choices:
 -----------------------------
 Casting directors can benefit from information on popular actors and collaborations.
-# 
+# RESULT 
+this movie analysis helped us through various aspects ,it helped in getting vast detail of movies,ratings genre ,Movie Release Trends, Production Statistics and Genre Analysis, Ratings Analysis and Crew Members,Crew Analysis, Broader Understanding of Data,Content Recommendations.
